@@ -9,7 +9,7 @@ I am a **Software Engineering Student** in **Mutah University** living in **Amma
 
 ---
 
-### 🛠️ Languages & Tools
+### 📦  My Tech Stack
 
 **Languages**
 <p align="left">
@@ -18,15 +18,16 @@ I am a **Software Engineering Student** in **Mutah University** living in **Amma
   <img src="https://img.shields.io/badge/Python-bbee?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
- <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visual-basic&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" /> 
 </p>
 
 **Frontend & Backend**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-37C6D0?style=for-the-badge&logo=dotnet&logoColor=white" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/Angular-230532?style=for-the-badge&logo=angular&logoColor=F11FC1" alt="Angular" />
 </p>
 
 **Database & Tools**
@@ -39,5 +40,8 @@ I am a **Software Engineering Student** in **Mutah University** living in **Amma
 ### ✉️ Contact me at:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/baraeqnaibi/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Baraa Eqnaibi" /></a>
+<a href="https://www.linkedin.com/in/baraeqnaibi/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Baraa Eqnaibi" /></a>
 <a href="mailto:baraa.qunibi@outlook.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My Email" /></a>
+<a href="https://bara-eqnaibi.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-7637E1?style=for-the-badge&logo=netlify&logoColor=white" alt="My Portfolio" /></a>
+</p>
+ 
