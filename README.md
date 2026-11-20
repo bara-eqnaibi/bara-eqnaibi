@@ -3,7 +3,7 @@
 I am a **newly graduated Software Engineer** from **Mutah University** living in **Amman, Jordan**.
 
 - More About me
-- 🤝🏼 **A Team Player:** I have volunteered for **Mutah University Center of Internship**.
+- 🤝🏼 **A Team Player:** I work well within a team environment and my experince in **tulips-techs and mutah center of entrepreneurship** gave mevaluable experience in it.
 - 💻 **A Coumputer Enthusiast:** My journey into technology began early as a passionate enthusiast, ultimately driving my ambition to pursue a professional career in the IT sector.
 - 🧠 **Fast learner:** I tend to learn and adapt to new environments and information at a quick pase.
 
