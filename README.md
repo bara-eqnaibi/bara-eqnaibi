@@ -1,6 +1,6 @@
 # Welcome to my Profile , I'm Bara Eqnaibi.
 
-I am a ** newly graduated Software Engineer** from **Mutah University** living in **Amman, Jordan**.
+I am a **newly graduated Software Engineer** from **Mutah University** living in **Amman, Jordan**.
 
 - More About me
 - 🤝🏼 **A Team Player:** I have volunteered for **Mutah University Center of Internship**.
